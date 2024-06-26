@@ -54,7 +54,7 @@ For anyone who wants to bring there version of DDMK over simply extract the file
 > [!IMPORTANT]  
 > Switch Style names are componets of UI mods. Such mods would have to be supplied to add visual aid durring gameplay.
 
-# Differences 
+# Differences Overview
 
 | PACKAGES            | BB | 2.6 | 2.7.3 |
 |---------------------|----|-----|-------|

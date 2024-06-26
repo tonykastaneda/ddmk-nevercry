@@ -34,7 +34,7 @@ If you've installed the mod successfully, you'll get a welcome message the next 
 ### 2.6 - Vanillia-esq 
 This 2.6 is set up to have a vanilla playthorugh were weapons are acquired at the story beats   
 
-When I first came across DDMK and tried installing it I found this [guide](https://youtu.be/MAHKvElDCS8?si=u2rRGhRX4Zic3E98), sadly it no longer seemed work with the newer HD collection updates. However there was a link to a preconfigured directory of DDMK 2.6 Beta 2, which contained the downgraded .exe files along with specific tweaks to prevent crashes on certain mission segments. One of the segments in question is phase 2 of the Arkham fight in mission 19 when Virgil joins. This happens because the style switching requires the 'Single Actor' option in DDMK to be active which conflicts with Virgil's and the doppelganger's functionalities. To fix this, ProjectXsent included a script in the preconfig that skips this phase 2 in Mission 19 altogether
+When I first came across DDMK and tried installing it I found this [guide](https://youtu.be/MAHKvElDCS8?si=u2rRGhRX4Zic3E98), sadly it no longer worked with newer HD collection updates. However there was a link to a preconfigured directory of DDMK 2.6 Beta 2, which contained the downgraded .exe files along with specific tweaks to prevent crashes on certain mission segments. One of the segments in question is phase 2 of the Arkham fight in mission 19 when Virgil joins. This happens because the style switching requires the 'Single Actor' option in DDMK to be active which conflicts with Virgil's and the doppelganger's functionalities. To fix this, ProjectXsent included a script in the preconfig that skips this phase 2 in Mission 19 altogether
   
 
 > [!NOTE]  

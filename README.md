@@ -31,14 +31,16 @@ If you've installed the mod successfully, you'll get a welcome message the next 
 
 ## Whats The Difference Between 2.6 and 2.7.3
 
-### Regarding 2.6
+### 2.6 - Vanillia-esq 
+This 2.6 is set up to have a vanilla playthorugh were weapons are acquired at the story beats   
 
 When trying to install DDMK the first time around I stumbled across this [video](https://www.youtube.com/watch?v=MAHKvElDCS8&lc=UgwY7iptsZnIIByvTYx4AaABAg) saddly none of it worked. But In the description he has a preconfig directory of 2.6 Beta 2 along with Downgraded exe files and tweaks that fix certain crashes in speicific parts of the game. More specifically a crash in Misison 19 When Virgil joins you in the 2nd phase of the Arkham fight. Because the `Single Actor` option needs to be on in order to use the style switching, Virgl `and by extension the doppleganger skill` don't work and/or crashes the game. Thus ProjectXsent has wrote in a pre config script that skips that phase in M19 all together.
 
 > [!NOTE]  
 > This config has seemingly been tested according to comments in the oringal video and has worked for me past M10 (6-25-24). Will update this section with a proper playthrough
 
-### Latest Build 2.7.3 
+### Latest Build 2.7.3 - ALl Weapons Unlocked
+This 2.7.3 has all weapons unlocked. Not sure if theres a work around just yet to match the 2.6 progression       
 
 I applied the same logic and files I did when tinkering around with ProjectXsent 2.6 preconfig to get the game to boot by simply swapping out the the 2.6 beta 2 files with the latest 2.7.3
 

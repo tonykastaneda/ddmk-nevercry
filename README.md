@@ -60,7 +60,7 @@ I applied the same logic and files I did when tinkering around with ProjectXsent
 
 
 # About Achievements
-This workaround disables achievements as a by prodcut of the goldberg emulator
+This workaround disables Steam Achievements as a by prodcut of the goldberg emulator
 
 
 # Create Savegame Backups

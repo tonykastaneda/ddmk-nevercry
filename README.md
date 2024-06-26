@@ -26,7 +26,7 @@ You should be able to boot the game normally now from either Steam or the games 
 If you've installed the mod successfully, you'll get a welcome message the next time you start the game (as in the actual game, not the launcher).
 
 <!-- ![welcome](welcome.png) -->
-![welcome](misc/welcomeimagecopy.png)
+![welcome](misc/img/welcome.png)
 
 
 ## Whats The Difference Between 2.6 and 2.7.3

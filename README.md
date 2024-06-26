@@ -1,5 +1,5 @@
 # DDMK NEVER CRY
-At somepoint in 2024 either Capcom or the Steam Family Share update bunked the current version of DDMK for the retail version of the HD Collection. Luckily I was able to peace meal a solution for those banging there head against the wall trying to install DDMK 2.7.3 or really any version. Well hopefully you never have to cry again after this mod.
+This project came around after banging my head against a wall trying to get DDMK to install on the latest HD Collection update. At some point in 2024, either Capcom or the Steam Family Share update fucked the current version of DDMK for the retail version of the HD Collection. Luckily, I was able to piece together a solution for those also banging their heads against the wall trying to install DDMK. Hopefully now you’ll never have to cry again after this mod.
 
 # DDMK
 For more information on DDMK head over to the original repo [here](https://github.com/serpentiem/ddmk)  

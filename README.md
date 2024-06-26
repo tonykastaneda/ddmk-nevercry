@@ -48,6 +48,23 @@ I applied the same logic and files I did when tinkering around with ProjectXsent
 > [!IMPORTANT]  
 > 2.7.3 of this config has not been tested on anything past M2 (6-25-24) the style switch works so I assume so do the guns and melee weapons do as well. Have not tested either Doppleganger or the M19 Phase 2 fight. Will update this section with a proper playthrough
 
+### BB - Barebones
+For anyone who wants to bring there version of DDMK over simply extract the files into your HD Collection install along side the BB-GPU.zip. This version doesnt contain anything other than the shimmed steam api and exes.  
+
+> [!IMPORTANT]  
+> Switch Style names are componets of UI mods. Such mods would have to be supplied to add visual aid durring gameplay.
+
+# Differences 
+
+| PACKAGES            | BB | 2.6 | 2.7.3 |
+|---------------------|----|-----|-------|
+| Text Fix            | ✅  | ✅   | ✅     |
+| Downgraded EXEs     | ✅  | ✅   | ✅     |
+| Vanilla Progression | ✅  | ✅   |       |
+| DDMK                |    | ✅   | ✅     |
+| Weapons Unlocked    |    |     | ✅     |
+| Switch Port HUD     |    |     | ✅     |
+
 
 ## Whats Installed
 

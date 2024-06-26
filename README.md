@@ -31,10 +31,10 @@ If you've installed the mod successfully, you'll get a welcome message the next 
 
 ## Whats The Difference Between 2.6 and 2.7.3
 
-### 2.6 - Vanillia-esq 
+### 2.6 - Vanilla-esq 
 This 2.6 is set up to have a vanilla playthorugh were weapons are acquired at the story beats   
 
-When I first came across DDMK and tried installing it I found this [guide](https://youtu.be/MAHKvElDCS8?si=u2rRGhRX4Zic3E98), sadly it no longer worked with newer HD collection updates. However there was a link to a preconfigured directory of DDMK 2.6 Beta 2, which contained the downgraded .exe files along with specific tweaks to prevent crashes on certain mission segments. One of the segments in question is phase 2 of the Arkham fight in mission 19 when Virgil joins. This happens because the style switching requires the 'Single Actor' option in DDMK to be active which conflicts with Virgil's and the doppelganger's functionalities. To fix this, ProjectXsent included a script in the preconfig that skips this phase 2 in Mission 19 altogether
+When I first came across DDMK and tried installing it I found this [guide](https://youtu.be/MAHKvElDCS8?si=u2rRGhRX4Zic3E98), sadly it no longer worked with newer HD collection updates. However there was a link to a preconfigured directory of DDMK 2.6 Beta 2, which contained the downgraded .exe files along with specific tweaks to prevent crashes in certain mission segments. One of the segments in question is phase 2 of the Arkham fight durring mission 19 when Virgil joins. This happens because in order to make style switching workit requires the 'Single Actor' option in DDMK to be active which conflicts with Virgil's and the doppelganger's functionalities. To fix this, ProjectXsent included a script in the preconfig that skips this phase 2 in Mission 19 altogether
   
 
 > [!NOTE]  
@@ -43,7 +43,7 @@ When I first came across DDMK and tried installing it I found this [guide](https
 ### Latest Build 2.7.3 - ALl Weapons Unlocked
 This 2.7.3 has all weapons unlocked. Not sure if theres a work around just yet to match the 2.6 progression       
 
-I applied the same logic and files I did when tinkering around with ProjectXsent 2.6 preconfig to get the game to boot by simply swapping out the the 2.6 beta 2 files with the latest 2.7.3
+I applied the same logic and files I did when tinkering around with ProjectXsent 2.6 preconfig to get the game to boot by simply swapping out the the 2.6 beta 2 files with the latest 2.7.3 build
 
 > [!IMPORTANT]  
 > 2.7.3 of this config has not been tested on anything past M2 (6-25-24) the style switch works so I assume so do the guns and melee weapons do as well. Have not tested either Doppleganger or the M19 Phase 2 fight. Will update this section with a proper playthrough

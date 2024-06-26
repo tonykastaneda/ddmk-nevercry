@@ -65,6 +65,9 @@ I applied the same logic and files I did when tinkering around with ProjectXsent
 # About Achievements
 This workaround disables Steam Achievements as a by prodcut of the goldberg emulator
 
+# Unknown Known Issues
+During my time putting this together, I got a firewall popup asking me to allow private network access for each individual game. But for some reason, "Accept" was greyed out, but "Cancel" wasn't. Either way, canceling the popup didn't seem to break anything as the games opened and closed without fault after that, and no popup has happened since. I'm assuming this has to do with the Goldberg emulator. I've since included the disable networking config as per some people's suggestions, but there is no way for me to test this as I've already canceled the popup on my end  
+
 
 # Create Savegame Backups
 

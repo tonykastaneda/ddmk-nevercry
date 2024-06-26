@@ -59,6 +59,9 @@ I applied the same logic and files I did when tinkering around with ProjectXsent
 | [ProjectXsent 2.6 Pre Config](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjM2ZWhMR2hXRWo5Qlg1QURmVGZybWtud2xFUXxBQ3Jtc0tuUm5mTGJDd0o0S2dGbWtYdHNybkxDV3ZsR1c5RHp2RkJUcGpMdi1OUlBvNXVKVTk0bGxiWnFkUFk2LXVtQ0YyMlVfLUhXbGk0RE5sVDN0bTNMdFhoUlp0clRYdldHQ01nOEtFa2IzM1NnQVBXMzBIRQ&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Ficvwpqch2om5t26%3Fdl%3D1&v=MAHKvElDCS8)                                             | dmc1.exe, dmc2.exe, dmc3.exe, dmcLauncher.exe                            |
 
 
+# About Achievements
+This workaround disables achievements as a by prodcut of the goldberg emulator
+
 
 # Create Savegame Backups
 

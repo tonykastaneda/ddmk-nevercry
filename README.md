@@ -34,7 +34,8 @@ If you've installed the mod successfully, you'll get a welcome message the next 
 ### 2.6 - Vanillia-esq 
 This 2.6 is set up to have a vanilla playthorugh were weapons are acquired at the story beats   
 
-When trying to install DDMK the first time around I stumbled across this [video](https://www.youtube.com/watch?v=MAHKvElDCS8&lc=UgwY7iptsZnIIByvTYx4AaABAg) saddly none of it worked. But In the description he has a preconfig directory of 2.6 Beta 2 along with Downgraded exe files and tweaks that fix certain crashes in speicific parts of the game. More specifically a crash in Misison 19 When Virgil joins you in the 2nd phase of the Arkham fight. Because the `Single Actor` option needs to be on in order to use the style switching, Virgl `and by extension the doppleganger skill` don't work and/or crashes the game. Thus ProjectXsent has wrote in a pre config script that skips that phase in M19 all together.
+When I first came across DDMK and tried installing it I found this [guide](https://youtu.be/MAHKvElDCS8?si=u2rRGhRX4Zic3E98), sadly it no longer seemed work with the newer HD collection updates. However there was a link to a preconfigured directory of DDMK 2.6 Beta 2, which contained the downgraded .exe files along with specific tweaks to prevent crashes on certain mission segments. One of the segments in question is phase 2 of the Arkham fight in mission 19 when Virgil joins. This happens because the style switching requires the 'Single Actor' option in DDMK to be active which conflicts with Virgil's and the doppelganger's functionalities. To fix this, ProjectXsent included a script in the preconfig that skips this phase 2 in Mission 19 altogether
+  
 
 > [!NOTE]  
 > This config has seemingly been tested according to comments in the oringal video and has worked for me past M10 (6-25-24). Will update this section with a proper playthrough
